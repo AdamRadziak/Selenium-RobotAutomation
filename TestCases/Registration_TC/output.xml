@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1.3 (Python 3.9.12 on win32)" generated="20230314 16:05:16.465" rpa="false" schemaversion="2">
+<suite id="s1" name="TC 004 Fetch" source="C:\Users\AdamRadziak\PycharmProjects\RobotFrameworkLearn\TestCases\Registration_TC\TC_004_Fetch.robot">
+<test id="s1-t1" name="TC_004_2 create folder at runtime">
+<kw name="make folder at runtime" library="Resource1">
+<kw name="Create Folder" library="UserKeywords">
+<status status="PASS" starttime="20230314 16:05:16.752" endtime="20230314 16:05:16.753"/>
+</kw>
+<status status="PASS" starttime="20230314 16:05:16.752" endtime="20230314 16:05:16.753"/>
+</kw>
+<status status="PASS" starttime="20230314 16:05:16.751" endtime="20230314 16:05:16.754"/>
+</test>
+<status status="PASS" starttime="20230314 16:05:16.472" endtime="20230314 16:05:16.755"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="TC 004 Fetch">TC 004 Fetch</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
