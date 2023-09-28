@@ -35,5 +35,5 @@ Resource    ../../Resources/Resource1.robot
 #    log    ${count}
 
 TC_004_2 create folder at runtime
-    resource1.make folder at runtime
+    Resource1.Create Folder At Runtime
 
